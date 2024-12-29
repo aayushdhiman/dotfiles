@@ -1,0 +1,15 @@
+font-family = BerkeleyMono Nerd Font
+theme = "cyberpunk"
+adjust-cursor-thickness = 15
+cursor-style-blink = true
+font-size = 14
+cursor-style = block
+adjust-cell-height = 35%
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+window-padding-balance = true
+window-save-state = always
+background = 1C2021
+background-opacity = 0.9
+window-title-font-family = "Hack Nerd Font Mono Regular"
+background-blur-radius = 30
